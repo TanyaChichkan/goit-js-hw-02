@@ -52,16 +52,6 @@ buttonRef.addEventListener('click', function () {
 
     console.log(total);
 
-    // if (input == '') {
-    //     numbers.pop();
-    //     alert('Try again');
-    // }
-
-
-    // if (Number.isNaN(input)) {
-    //     numbers.pop();
-    //     alert('Not a number');
-    // }
 
 
 });
